@@ -1,0 +1,44 @@
+.navbar {
+  background: rgb(43, 43, 46);
+  overflow: hidden;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  text-align: center;
+  padding: 3vw;
+}
+
+.navbar form {
+  float:right;
+  text-align: center;
+  padding: 3vw;
+}
+
+#home {
+  color: white;
+}
+
+#login {
+  color: grey;
+}
+
+#logo {
+  color: white;
+}
+
+/*
+<div class="navbar">
+  <div class= "nav-item" id= "logo">GMBD</div>
+  <div class= "nav-item" id= "home"><a href="movies.html">Home</a></div>
+  <div class= "nav-item" id= "login"><a href="login.html">Login</a></div>
+  <div class= "nav-spacer"></div>
+  <div class="search-container">
+    <form action="/action_page.php">
+      <input type="text" placeholder="Search" name="search">
+      <button type="search">Search</button>
+    </form>
+  </div>
+</div>
+*/

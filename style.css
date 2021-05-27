@@ -1,0 +1,29 @@
+
+.return {
+  display: flex;
+  height: 4vh;
+  background: rgb(108, 108, 116);
+  color: rgb(211, 188, 18);
+  align-items: center;
+  padding-left: 2vw;
+  margin:1vh 0 2vh 0;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: inherit;
+}
+
+.photo-adjust{
+  width:100%;
+  max-width: 400px;
+  height:auto;
+}
+
+.usr-entry{
+    align-items: center
+}
